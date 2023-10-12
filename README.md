@@ -17,4 +17,4 @@ Welcome to YourNotes UI! This repository contains the source code for a fantasti
 3. Run the project.
 
     ```sh
-    npm run dev
+    npm run start
